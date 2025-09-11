@@ -244,7 +244,7 @@ export default function QRGenerator() {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://youtube.com/@abdulloh-abdurashidov"
+                href="https://youtube.com/@shoh-coder"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-10 h-10 rounded-full bg-background border hover:bg-accent hover:text-accent-foreground transition-colors"
