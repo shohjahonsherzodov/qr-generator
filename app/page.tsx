@@ -228,14 +228,14 @@ export default function QRGenerator() {
           <div className="flex flex-col items-center space-y-4">
             <div className="text-center">
               <p className="text-sm font-medium text-foreground">
-                Dasturchi: <span className="text-primary">Abdulloh Abdurashidov</span>
+                Dasturchi: <span className="text-primary">Sherzodov Shohjahon</span>
               </p>
               <p className="text-xs text-muted-foreground mt-1">Full-Stack Developer</p>
             </div>
 
             <div className="flex items-center space-x-4">
               <a
-                href="https://github.com/abdulloh-abdurashidov"
+                href="https://github.com/shohjahonsherzodov"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-10 h-10 rounded-full bg-background border hover:bg-accent hover:text-accent-foreground transition-colors"
@@ -253,7 +253,7 @@ export default function QRGenerator() {
                 <Youtube className="h-5 w-5" />
               </a>
               <a
-                href="https://instagram.com/abdulloh.abdurashidov"
+                href="https://instagram.com/shohjahon2011_blog"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-10 h-10 rounded-full bg-background border hover:bg-accent hover:text-accent-foreground transition-colors"
@@ -262,7 +262,7 @@ export default function QRGenerator() {
                 <Instagram className="h-5 w-5" />
               </a>
               <a
-                href="https://t.me/abdulloh_abdurashidov"
+                href="https://t.me/shohjahon2011_blog"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-10 h-10 rounded-full bg-background border hover:bg-accent hover:text-accent-foreground transition-colors"
@@ -273,7 +273,7 @@ export default function QRGenerator() {
             </div>
 
             <div className="text-center">
-              <p className="text-xs text-muted-foreground">© 2024 QR Kod Generatori. Barcha huquqlar himoyalangan.</p>
+              <p className="text-xs text-muted-foreground">© 2025 QR Kod Generatori. Barcha huquqlar himoyalangan.</p>
             </div>
           </div>
         </div>
